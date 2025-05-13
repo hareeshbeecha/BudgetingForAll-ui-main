@@ -1,6 +1,6 @@
 # 🎨 Nutshell Frontend – Your AI-Powered Budgeting App
 
-![Nutshell Logo](https://github.com/hareeshbeecha/BudgetingForAll-ui/blob/main/screenshots/logo.png)
+![Nutshell Logo](https://github.com/hareeshbeecha/BudgetingForAll-ui-main/blob/main/screenshots/logo.png)
 
 **Nutshell** is an **AI-powered budgeting and expense tracking app**, designed with **React Native and Expo** to help users take control of their finances. 
 
