@@ -60,11 +60,11 @@ npx expo start
 ## **📲 Screenshots**
 | Home | Expenses | AI Chat |
 |------|---------|--------|
-| ![Home](https://github.com/hareeshbeecha/BudgetingForAll-ui/blob/main/screenshots/home-screen.jpeg) | ![Expenses](https://github.com/hareeshbeecha/BudgetingForAll-ui/blob/main/screenshots/expenses.jpeg) | ![AI Chat](https://github.com/hareeshbeecha/BudgetingForAll-ui/blob/main/screenshots/ai-chat.jpeg) |
+| ![Home](https://github.com/hareeshbeecha/BudgetingForAll-ui-main/blob/main/screenshots/home-screen.jpeg) | ![Expenses](https://github.com/hareeshbeecha/BudgetingForAll-ui-main/blob/main/screenshots/expenses.jpeg) | ![AI Chat](https://github.com/hareeshbeecha/BudgetingForAll-ui-main/blob/main/screenshots/ai-chat.jpeg) |
 
 | FIRE Dashboard | FIRE Insights |
 |---------------|--------------|
-| ![FIRE Dashboard](https://github.com/hareeshbeecha/BudgetingForAll-ui/blob/main/screenshots/Fire-planner.jpeg) | ![Expense Tracker](https://github.com/hareeshbeecha/BudgetingForAll-ui/blob/main/screenshots/add-or-remove.jpeg) |
+| ![FIRE Dashboard](https://github.com/hareeshbeecha/BudgetingForAll-ui-main/blob/main/screenshots/Fire-planner.jpeg) | ![Expense Tracker](https://github.com/hareeshbeecha/BudgetingForAll-ui-main/blob/main/screenshots/add-or-remove.jpeg) |
 
 ---
 
